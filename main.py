@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'Welcome to Python Flask World 1.1` with automate trigger'
+    return 'Welcome to Python Flask World v2.0 with automate trigger'
 
 
 if __name__ == '__main__':
