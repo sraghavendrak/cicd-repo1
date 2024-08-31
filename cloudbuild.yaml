@@ -1,4 +1,2 @@
 options:
-  logging: CLOUD_LOGGING_ONLY
-  log_streaming_option: STREAM_ON
-  log_bucket: "gs://cicd1-bucket/logs"
+  logging: NONE
